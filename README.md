@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/h.gif" width="30" align="left" alt="Waving Hand"> Hi, I’m @ParimalAutade <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/facesmile.gif" width="30" align="right" alt="Smiling Face">
+# <img src="https://github.com/Raju3108/Rajukumar3108/blob/main/DSPROFILEIMAGES/h.gif" width="30" align="left" alt="Waving Hand"> Hi, I’m @Raju kumar<img src="https://github.com/Rajukumar3108/Rajukumar3108/blob/main/DSPROFILEIMAGES/facesmile.gif" width="30" align="right" alt="Smiling Face">
 
 **Passionate** professional dedicated to leveraging data in roles such as **Data Analyst** 📊, **Business Analyst** 📈, **Power BI Developer** 💻, **Data Engineer** 🔧, and my favorite, **Data Scientist** 🧑‍🔬. I focus on transforming complex data into actionable insights to drive impactful decisions.
 
@@ -169,25 +169,25 @@ This project involves:
 
 ## 🔥 GitHub Streak
 
-![Parimal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParimalA24-DS&theme=radical)
+![Raju's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParimalA24-DS&theme=radical)
 
 ## 📊 GitHub Activity Graph
 
-[![Parimal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParimalA24-DS&theme=react-dark)](https://github.com/ParimalA24-DS)
+[![Raju's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajukumar3108&theme=react-dark)](https://github.com/Rajukumar3108)
 
 ## 🏆 GitHub Trophies
 
-[![Parimal's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParimalA24-DS&theme=algolia)](https://github.com/ParimalA24-DS)
+[![Raju's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rajukumar3108&theme=algolia)](https://github.com/Rajukumar3108)
 
 ## 💻 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParimalA24-DS&layout=compact&theme=radical)](https://github.com/ParimalA24-DS)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajukumar3108S&layout=compact&theme=radical)](https://github.com/Rajukumar3108)
 
 ---
 ## 📊 Data Analysis in Action
 
 <p align="center">
-    <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
+    <img src="https://github.com/Rajukumar3108/Rajukumar3108/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
 </p>
 
 <p align="center">
