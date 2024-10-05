@@ -12,7 +12,7 @@ I’ve spent 100’s of hours developing reports that save time and money.
     <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
 </p>
 
-<p align="center">
+<p align="left">
     <strong>Data Visualization & Storytelling</strong> - Understanding data, creating visualizations, and taking actionable insights.
 </p>
 
