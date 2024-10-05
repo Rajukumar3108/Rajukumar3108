@@ -6,4 +6,14 @@ I’m laser-focused on creating business insights that drive decision making, an
 I’ve spent 100’s of hours developing reports that save time and money.
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+  ## 📊 Data Analysis in Action
+
+<p align="center">
+    <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
+</p>
+
+<p align="center">
+    <strong>Data Visualization & Storytelling</strong> - Understanding data, creating visualizations, and taking actionable insights.
+</p>
+
   
