@@ -9,7 +9,7 @@ I’ve spent 100’s of hours developing reports that save time and money.
   ## 📊 Data Analysis in Action
 
 <p align="center">
-    <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
+    <img src="https://github.com/Rajukumar3108/Rajukumar3108/blob/main/31.gif" width="400" />
 </p>
 
 <p align="left">
