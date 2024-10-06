@@ -4,6 +4,7 @@
 I focus on creating reports and visualizations for data-forward companies.
 I’m laser-focused on creating business insights that drive decision making, and I help companies ⚡automate⚡ reports that connect to all their data.
 I’ve spent 100’s of hours developing reports that save time and money.
+  
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
   ## 📊 Data Analysis in Action
@@ -16,4 +17,4 @@ I’ve spent 100’s of hours developing reports that save time and money.
     <strong>Data Visualization & Storytelling</strong> - Understanding data, creating visualizations, and taking actionable insights.
 </p>
 
-  
+## Skills:
