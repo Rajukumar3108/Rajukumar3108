@@ -8,3 +8,4 @@ I’m laser-focused on creating business insights that drive decision making, an
 I’ve spent 100’s of hours developing reports that save time and money.
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/raju3108)
