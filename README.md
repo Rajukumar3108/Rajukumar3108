@@ -7,7 +7,7 @@ I focus on creating reports and visualizations for data-forward companies.
 I’m laser-focused on creating business insights that drive decision making, and I help companies ⚡automate⚡ reports that connect to all their data.
 I’ve spent 100’s of hours developing reports that save time and money.
 
-## 🌐 Socials:
+## 🌐 Skills:
 
 
 ![Python](https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=MySQL&logoColor=0000FF)   ![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=Python&logoColor=0000FF) 
